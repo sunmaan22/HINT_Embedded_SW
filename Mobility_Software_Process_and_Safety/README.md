@@ -29,7 +29,7 @@
 
 ## 2. 원자료 개요
 
-- 제목: *Mobility Software Essentials and Processes* (임서준, 2026)
+- 제목: *Mobility Software Essentials and Processes*
 - 구성: 3일(24시간). Day 1 — 개론·E/E·개발 프로세스 + A-SPICE 기초 / Day 2 — 프로젝트·엔지니어링 관리 + 지원 프로세스·추적성 / Day 3 — ISO 26262 기능안전 + 안전분석·표준 통합·사이버보안/SOTIF.
 - 관점: OEM–협력업체 관계에서 **평가받는 쪽(supplier)**이 무엇을 갖추어야 하는지.
 
