@@ -1,6 +1,6 @@
 # Mobility Software Process and Safety
 
-차량 전장·소프트웨어 개발이 **왜 프로세스와 기능안전을 요구하는지**, 그 요구를 **Automotive SPICE**와 **ISO 26262**가 각각 어떻게 규정하는지를 정리한 기술 노트이다. 자료의 원본은 3일 과정 교육자료이며, 여기서는 학습 일정·실습 안내를 제외하고 개념과 용어(KEYWORD) 중심으로 재구성했다.
+차량 전장·소프트웨어 개발이 **왜 프로세스와 기능안전을 요구하는지**, 그 요구를 **Automotive SPICE**와 **ISO 26262**가 각각 어떻게 규정하는지를 정리한 기술 노트이다.
 
 [개발 프로세스 · A-SPICE](./Development_Process_and_ASPICE.md) · [기능안전 · ISO 26262](./Functional_Safety_ISO26262.md) · [전체 구성도](./Visual_Overview.md)
 
