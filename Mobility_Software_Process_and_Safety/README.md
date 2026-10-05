@@ -2,7 +2,7 @@
 
 차량 전장·소프트웨어 개발이 **왜 프로세스와 기능안전을 요구하는지**, 그 요구를 **Automotive SPICE**와 **ISO 26262**가 각각 어떻게 규정하는지를 정리한 기술 노트이다.
 
-[개발 프로세스 · A-SPICE](./Development_Process_and_ASPICE.md) · [기능안전 · ISO 26262](./Functional_Safety_ISO26262.md) · [전체 구성도](./Visual_Overview.md)
+[개발 프로세스 · A-SPICE](./Development_Process_and_ASPICE.md) · [기능안전 · ISO 26262](./Functional_Safety_ISO26262.md) · [전체 구성도](./Visual_Overview.md) · [SW 보안 · Secure OTA](../Software_Security_and_OTA/README.md)
 
 ## 0. 이 문서가 다루는 범위
 
